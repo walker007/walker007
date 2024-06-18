@@ -1,10 +1,12 @@
 # 💫 About Me:
-🚀 Driven Full Stack Developer with 4+ years of experience in software development. I help companies deliver high-quality, scalable solutions that enhance system performance and user engagement.
-🛠 Developed reliable and scalable applications using Spring Boot with TDD methodology, achieving 95% test coverage and significantly reducing post-deployment issues.
-⚡ Optimized database queries by utilizing Hibernate and implementing Redis caching, reducing query times and enhancing overall system performance by 35%.
-🔧 Implemented DevOps best practices to streamline deployment processes, utilizing Docker for consistent API deployment and reducing deployment time by 30%.
-🌐 Managed AWS infrastructure and established automated CI/CD pipelines using Terraform and GitHub Actions, improving development efficiency and deployment reliability.
-🔭  PHP and Java developer<br>💻 Javascript and React developer<br>🌱 I’m currently learning about DevOps Culture<br>
+🚀 Driven Full Stack Developer with 4+ years of experience in software development. I help companies deliver high-quality, scalable solutions that enhance system performance and user engagement.<br>
+🛠 Developed reliable and scalable applications using Spring Boot with TDD methodology, achieving 95% test coverage and significantly reducing post-deployment issues.<br>
+⚡ Optimized database queries by utilizing Hibernate and implementing Redis caching, reducing query times and enhancing overall system performance by 35%.<br>
+🔧 Implemented DevOps best practices to streamline deployment processes, utilizing Docker for consistent API deployment and reducing deployment time by 30%.<br>
+🌐 Managed AWS infrastructure and established automated CI/CD pipelines using Terraform and GitHub Actions, improving development efficiency and deployment reliability.<br>
+🔭  PHP and Java developer<br>
+💻 Javascript and React developer<br>
+🌱 I’m currently learning about DevOps Culture<br>
 
 
 ## 🌐 Socials:
