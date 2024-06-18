@@ -4,8 +4,6 @@
 ⚡ Optimized database queries by utilizing Hibernate and implementing Redis caching, reducing query times and enhancing overall system performance by 35%.<br>
 🔧 Implemented DevOps best practices to streamline deployment processes, utilizing Docker for consistent API deployment and reducing deployment time by 30%.<br>
 🌐 Managed AWS infrastructure and established automated CI/CD pipelines using Terraform and GitHub Actions, improving development efficiency and deployment reliability.<br>
-🔭  PHP and Java developer<br>
-💻 Javascript and React developer<br>
 🌱 I’m currently learning about DevOps Culture<br>
 
 
